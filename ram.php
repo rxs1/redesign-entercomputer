@@ -71,11 +71,11 @@
 						      	<div class="panel panel-default">
 						      			<div class="panel-heading">
 						       				<h4 class="panel-title">
-						         				<a data-toggle="collapse" data-parent="#accordion" href="#collapse2">Untuk Laptop</a>
+						         				<a data-toggle="collapse" data-parent="#accordion2" href="#collapse2b">Untuk Laptop</a>
 						        			</h4>
 						      			</div>
 						    		</div>
-						    		<div id="collapse2" class="panel-collapse collapse">
+						    		<div id="collapse2b" class="panel-collapse collapse">
 						        		<div class="panel-body">
 						        			<?php include'dummy-ram-corsair.php'; ?>
 						        		</div>

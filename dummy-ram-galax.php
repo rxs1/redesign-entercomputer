@@ -100,19 +100,19 @@
 					  <!-- Wrapper for slides -->
 					  <div class="carousel-inner" role="listbox">
 					    <div class="item active">
-					      <img src="assets/img/05.png" alt="intel">
+					      <img src="assets/img/05.png" alt="galax">
 					    </div>
 
 					    <div class="item">
-					      <img src="assets/img/05.png" alt="intel">
+					      <img src="assets/img/05.png" alt="galax">
 					    </div>
 
 					    <div class="item">
-					      <img src="assets/img/05.png" alt="intel">
+					      <img src="assets/img/05.png" alt="galax">
 					    </div>
 
 					    <div class="item">
-					      <img src="assets/img/05.png" alt="intel">
+					      <img src="assets/img/05.png" alt="galax">
 					    </div>
 					  </div>
 
