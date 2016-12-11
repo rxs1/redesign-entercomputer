@@ -1,6 +1,10 @@
 @font-face {
-    font-family: newone;
-    src: url(../font/AstronBoyWonder.ttf);
+	font-family: newone;
+	src: url(../font/AstronBoyWonder.ttf);
+}
+
+body {
+	background-color: #EEEEEE;
 }
 
 #header #logo h2{
