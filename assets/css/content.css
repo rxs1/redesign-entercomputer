@@ -12,3 +12,15 @@
 	padding:3%;
 	width:150px;
 }
+
+.arrow-left{
+	text-align: center;
+	margin-top: 6%;
+	font-size: 50px;
+}
+
+.arrow-right{
+	text-align: center;
+	margin-top: 6%;
+	font-size: 50px;
+}

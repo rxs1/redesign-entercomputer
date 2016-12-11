@@ -100,43 +100,43 @@
 			<h4><b>PRODUK LARIS</b></h4>
 		</div>
 		<hr>
-		<div class="row">
-			<div class="col-sm-4 col-md-3">
-				<div class="thumbnail">
-					<img src="assets/img/processor-1.jpg" alt="intel">
-					<div class="caption">
-						<p>Intel i3 LGA 1151</p>
-						<p>Rp3.500.000</p>
+		<div class="row" >
+			<div class="col-md-1 arrow-left">
+				<i class="fa fa-arrow-circle-left"></i>
+			</div>
+			<div class="col-md-10">
+				<div class="col-md-4">
+					<div class="thumbnail">
+						<img src="assets/img/processor-1.jpg" alt="intel">
+						<div class="caption">
+							<p>Intel i3 LGA 1151</p>
+							<p>Rp3.500.000</p>
+						</div>
 					</div>
 				</div>
-			</div>
-			<div class="col-sm-4 col-md-3">
-				<div class="thumbnail">
-					<img src="assets/img/processor-1.jpg" alt="intel">
-					<div class="caption">
-						<p>Intel i3 LGA 1151</p>
-						<p>Rp3.500.000</p>
+				<div class="col-md-4">
+					<div class="thumbnail">
+						<img src="assets/img/processor-1.jpg" alt="intel">
+						<div class="caption">
+							<p>Intel i3 LGA 1151</p>
+							<p>Rp3.500.000</p>
+						</div>
 					</div>
 				</div>
-			</div>
-			<div class="col-sm-4 col-md-3">
-				<div class="thumbnail">
-					<img src="assets/img/processor-1.jpg" alt="intel">
-					<div class="caption">
-						<p>Intel i3 LGA 1151</p>
-						<p>Rp3.500.000</p>
+				<div class="col-md-4">
+					<div class="thumbnail">
+						<img src="assets/img/processor-1.jpg" alt="intel">
+						<div class="caption">
+							<p>Intel i3 LGA 1151</p>
+							<p>Rp3.500.000</p>
+						</div>
 					</div>
 				</div>
+			</div>	
+			<div class="col-md-1 arrow-right">
+				<i class="fa fa-arrow-circle-right"></i>
 			</div>
-			<div class="col-sm-4 col-md-3">
-				<div class="thumbnail">
-					<img src="assets/img/processor-1.jpg" alt="intel">
-					<div class="caption">
-						<p>Intel i3 LGA 1151</p>
-						<p>Rp3.500.000</p>
-					</div>
-				</div>
-			</div>
+			
 		</div>
 	</div>
 	<?php include'footer.php';?>
