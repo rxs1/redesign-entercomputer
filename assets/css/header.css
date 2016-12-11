@@ -1,22 +1,16 @@
 @import url(https://fonts.googleapis.com/css?family=Titillium+Web);
 
-
-
 #header {
 	padding: 10px;
 	background-color: #52B3D9;
 }
 
 #logo {
-	
+	color: white;
 }
 
 #menuBar {
 	margin-top: 20px;
-}
-
-#tabContainer {
-	
 }
 
 #topTab {
@@ -25,10 +19,6 @@
 	position: relative;
 	height: 27px;
 	font-weight: bold;
-
-}
-
-#topTab li {
 
 }
 
@@ -47,10 +37,10 @@
 	background-color: #F9BF3B;
 }
 
-#info {
-
-}
-
 #info table {
 	margin-left: 80px;
+}
+
+#info table td {
+	color: white;
 }

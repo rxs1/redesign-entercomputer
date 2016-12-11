@@ -1,64 +1,65 @@
-<footer>
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-12">
-				<div class="col-md-4">
-					<p>
+<div id="footer">
+	<div class="container-fluid">
+		<div class="col-lg-12">
+			<div class="col-md-3" id="alamat">
+				<p>
 					Alamat:
-					</p>
-					<p>
+				</p>
+				<p>
 					Mangga Dua Mall Lt.5 Blok C No. 101.106
-					</p>
-					<p>
+				</p>
+				<p>
 					Jakarta Pusat 10730
-					</p>
-					<p>
-						<i class="glyphicon glyphicon-earphone"></i> (021) 3043 033
-					</p>
-										<p>
-						<i class=" glyphicon glyphicon-envelope"></i> sales@enterkomputer.com
-					</p>
-					
-				</div>
-
-				<div class="col-md-4">
-					<ul class="nav nav-pills nav-stacked">
-			          <li><a href="#">Simulasi Harga</a></li>
-			          <li><a href="#">Paket Komputer</a></li>
-			          <li><a href="#">Beli Paket</a></li>          
-			        </ul>
-				</div>
-
-				<div class="col-md-4">
-					<ul class="nav nav-pills nav-stacked">
-			          <li><a href="#">Bantuan</a></li>
-			          <li><a href="#">Hubungi Kami</a></li>
-			          <li><a href="#">Syarat dan Kebijakan Privasi</a></li>          
-			        </ul>
-				</div>
+				</p>
+				<p>
+					<i class="glyphicon glyphicon-earphone"></i> (021) 3043 0333
+				</p>
+				<p>
+					<i class=" glyphicon glyphicon-envelope"></i> sales@enterkomputer.com
+				</p>	
 			</div>
 
+			<div class="col-md-6" id="footer-mid">
+				<div>
+					<p>
+						<a href="#">Simulasi Harga</a>
+					</p>
+					<p>
+						<a href="#">Paket Komputer</a>
+					</p>
+					<p>
+						<a href="#">Beli Paket</a>
+					</p>
+				</div>    
+			</div>
 
-
+			<div class="col-md-3" id="footer-right">
+				<div>
+					<p>
+						<a href="#">Bantuan</a>
+					</p>
+					<p>
+						<a href="#">Hubungi Kami</a>
+					</p>
+					<p>
+						<a href="#">Syarat dan Kebijakan Privasi</a>
+					</p>        
+				</div>
+			</div>
 		</div>
 
-		<div class="row">
-			<div class="col-lg-12">
-				<div class="col-md-4 social-media">
-
-					<i class="fa fa-facebook-square" aria-hidden="true"></i>
-					<i class="fa fa-twitter-square" aria-hidden="true"></i>
-					<i class="fa fa-instagram" aria-hidden="true"></i>
-
-				</div>
-				<div class="col-md-4">
-				 <center>
-				 <p>Copyright @ Enter Komputer 2016</p>
-				 <p>All Right reserved</p>
-				 </center>
-				</div>
-			</div>	
+		<div class="col-lg-12" id="footer-bottom">
+			<div class="col-md-4 social-media">
+				<i class="fa fa-facebook-square"></i>
+				<i class="fa fa-twitter-square"></i>
+				<i class="fa fa-instagram"></i>
+			</div>
+			<div class="col-md-4">
+				<center>
+					<p>Copyright @ Enter Komputer 2016</p>
+					<p>All Right reserved</p>
+				</center>
+			</div>
 		</div>
-
 	</div>
-</footer>
+</div>
