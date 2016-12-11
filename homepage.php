@@ -14,7 +14,7 @@
 	
 	<div class="container promo">
 		<div>
-			<h4>Promo Bulan Ini</h4>
+			<h4><b>PROMO BULAN INI</b></h4>
 		</div>
 		<hr>
 		<div class="row">
@@ -97,7 +97,7 @@
 
 	<div class="container promo">
 		<div>
-			<h4>Produk Laris</h4>
+			<h4><b>PRODUK LARIS</b></h4>
 		</div>
 		<hr>
 		<div class="row">
