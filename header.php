@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<title>Enter Komputer</title>
-	<meta charset="utf-8">
-	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
-	<link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-	<link href="css/header.css" rel="stylesheet">
-</head>
 
-<body>
 	<div id="header" class="col-md-12">
 		<div id="logo" class="col-md-3">
 			<h2>Enter Komputer</h2>
@@ -43,8 +33,5 @@
 			</table>
 		</div>
 	</div>
+
 	
-	<div id="body">
-		<hr>
-	</div>
-</body>

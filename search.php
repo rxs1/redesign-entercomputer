@@ -1,3 +1,4 @@
+<div class="search">	
 	<div class="container">
 
       <div class="row">
@@ -43,3 +44,4 @@
 			</div>
 		</div><!-- /.row -->
 	</div>
+</div>

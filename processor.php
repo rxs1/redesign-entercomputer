@@ -8,6 +8,8 @@
 
 </head>
 <body>
+	<?php include 'header.php'; ?>
+
 	<?php include 'search.php'; ?>
 	<div class="container">
 		<div class="row">

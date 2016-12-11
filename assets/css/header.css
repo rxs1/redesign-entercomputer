@@ -1,12 +1,8 @@
 @import url(https://fonts.googleapis.com/css?family=Titillium+Web);
 
-body {
-	color: white;
-	font-weight: bold;
-}
+
 
 #header {
-	margin-top: -20px;
 	padding: 10px;
 	background-color: #52B3D9;
 }
