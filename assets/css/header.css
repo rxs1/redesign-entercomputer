@@ -11,6 +11,7 @@
 
 #menuBar {
 	margin-top: 20px;
+	margin-left: -20px; 
 }
 
 #topTab {
@@ -27,7 +28,7 @@
 	float: left;
 	color: white;
 	text-decoration: none;
-	padding: 3px 14px 3px 14px;
+	padding: 2px 12px 2px 12px;
 	height: 27px;
 	list-style-position:inside;
 	border: 1px solid white;
@@ -38,7 +39,7 @@
 }
 
 #info table {
-	margin-left: 80px;
+	margin-left: 50px;
 }
 
 #info table td {
