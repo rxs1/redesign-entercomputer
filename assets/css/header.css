@@ -1,5 +1,16 @@
-@import url(https://fonts.googleapis.com/css?family=Titillium+Web);
+@font-face {
+	font-family: newone;
+	src: url(../font/AstronBoyWonder.ttf);
+}
 
+body {
+	background-color: #EEEEEE;
+}
+
+#header #logo h2{
+	font-family: newone;
+	font-size: 45px
+}
 #header {
 	padding: 10px;
 	background-color: #52B3D9;
@@ -28,10 +39,10 @@
 	float: left;
 	color: white;
 	text-decoration: none;
-	padding: 2px 12px 2px 12px;
-	height: 27px;
+	padding: 8px 12px 2px 12px;
+	height: 35px;
 	list-style-position:inside;
-	border: 1px solid white;
+	border-bottom: 1px solid white;
 }
 
 #topTab li a:hover {
@@ -42,10 +53,7 @@
 	margin-left: 20px;
 }
 
-#info table {
-	margin-left: 100px;
-}
-
-#info table td {
+#info div {
 	color: white;
+	margin-left: 80px;
 }

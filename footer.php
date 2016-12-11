@@ -1,5 +1,5 @@
 <div id="footer">
-	<div class="container-fluid">
+	<div class="container">
 		<div class="col-lg-12">
 			<div class="col-md-3" id="alamat">
 				<p>
@@ -19,7 +19,7 @@
 				</p>	
 			</div>
 
-			<div class="col-md-6" id="footer-mid">
+			<div class="col-md-3" id="footer-mid">
 				<div>
 					<p>
 						<a href="#">Simulasi Harga</a>
@@ -46,15 +46,20 @@
 					</p>        
 				</div>
 			</div>
+			<div class="col-md-3 social-media">
+				&nbsp;
+				<i class="fa fa-facebook-square"></i>
+				&nbsp;&nbsp;&nbsp;
+				<i class="fa fa-twitter-square"></i>
+				&nbsp;&nbsp;&nbsp;
+				<i class="fa fa-instagram"></i>
+				
+			</div>
 		</div>
 
 		<div class="col-lg-12" id="footer-bottom">
-			<div class="col-md-4 social-media">
-				<i class="fa fa-facebook-square"></i>
-				<i class="fa fa-twitter-square"></i>
-				<i class="fa fa-instagram"></i>
-			</div>
-			<div class="col-md-4">
+			
+			<div class="col-md-4 col-md-offset-4">
 				<center>
 					<p>Copyright @ Enter Komputer 2016</p>
 					<p>All Right reserved</p>

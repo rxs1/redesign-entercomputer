@@ -2,30 +2,37 @@
 	background-color: #52B3D9;
 	color: white;
 	font-weight: bold;
+	padding-top: 2%;
 }
 
 #alamat p {
 	color: white;
 }
 
-#footer-mid div {
-	margin-left: 250px;
-}
+
 
 #footer-mid a {
 	text-decoration: none;
 	color: white;
 }
 
-#footer-right div {
-	margin-left: 50px;
-}
 
 #footer-right a {
 	text-decoration: none;
 	color: white;
 }
+#footer-right {
+	border-left:#fff solid 1px;
+	height: 100px;
+}
+
+#footer-mid {
+	border-left:#fff solid 1px;
+	height: 100px;
+}
 
 .social-media{
 	font-size: 33px;
+	border-left:#fff solid 1px;
+	height: 100px;
 }
