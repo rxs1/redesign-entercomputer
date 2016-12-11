@@ -1,5 +1,5 @@
 <div id="footer">
-	<div class="container-fluid">
+	<div class="container">
 		<div class="col-lg-12">
 			<div class="col-md-3" id="alamat">
 				<p>
