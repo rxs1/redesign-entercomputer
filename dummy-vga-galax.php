@@ -1,5 +1,5 @@
 <div class="row">
-  <a href="#" data-toggle="modal" data-target="#myModal">
+  <a href="#" data-toggle="modal" data-target="#myModal1">
 	<div class="col-sm-4 col-md-3"  >
 	<div class="thumbnail">
 	  <img src="assets/img/vga-2.jpg" alt="...">
@@ -17,7 +17,7 @@
 	</div>
   </a>
 
-  <a href="#" data-toggle="modal" data-target="#myModal">
+  <a href="#" data-toggle="modal" data-target="#myModal1">
 	<div class="col-sm-4 col-md-3"  >
 	<div class="thumbnail">
 	  <img src="assets/img/vga-2.jpg" alt="...">
@@ -35,7 +35,7 @@
 	</div>
   </a>
 
-  <a href="#" data-toggle="modal" data-target="#myModal">
+  <a href="#" data-toggle="modal" data-target="#myModal1">
 	<div class="col-sm-4 col-md-3"  >
 	<div class="thumbnail">
 	  <img src="assets/img/vga-2.jpg" alt="...">
@@ -53,7 +53,7 @@
 	</div>
   </a>
 
-  <a href="#" data-toggle="modal" data-target="#myModal">
+  <a href="#" data-toggle="modal" data-target="#myModal1">
 	<div class="col-sm-4 col-md-3"  >
 	<div class="thumbnail">
 	  <img src="assets/img/vga-2.jpg" alt="...">
@@ -75,7 +75,7 @@
   </div>
 
   <!-- Modal -->
-<div id="myModal" class="modal fade" role="dialog">
+<div id="myModal1" class="modal fade" role="dialog">
   <div class="modal-dialog modal-lg">
     <!-- Modal content-->
     <div class="modal-content">
@@ -88,13 +88,13 @@
 			
 			<div class="row">
 				<div class="col-md-6">
-					<div id="myCarousel" class="carousel slide" data-ride="carousel">
+					<div id="myCarousel1" class="carousel slide" data-ride="carousel">
 					  <!-- Indicators -->
 					  <ol class="carousel-indicators">
-					    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-					    <li data-target="#myCarousel" data-slide-to="1"></li>
-					    <li data-target="#myCarousel" data-slide-to="2"></li>
-					    <li data-target="#myCarousel" data-slide-to="3"></li>
+					    <li data-target="#myCarousel1" data-slide-to="0" class="active"></li>
+					    <li data-target="#myCarousel1" data-slide-to="1"></li>
+					    <li data-target="#myCarousel1" data-slide-to="2"></li>
+					    <li data-target="#myCarousel1" data-slide-to="3"></li>
 					  </ol>
 
 					  <!-- Wrapper for slides -->
@@ -117,11 +117,11 @@
 					  </div>
 
 					  <!-- Left and right controls -->
-					  <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+					  <a class="left carousel-control" href="#myCarousel1" role="button" data-slide="prev">
 					    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
 					    <span class="sr-only">Previous</span>
 					  </a>
-					  <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+					  <a class="right carousel-control" href="#myCarousel1" role="button" data-slide="next">
 					    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
 					    <span class="sr-only">Next</span>
 					  </a>

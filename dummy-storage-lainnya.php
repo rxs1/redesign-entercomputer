@@ -2,14 +2,14 @@
   <a href="#" data-toggle="modal" data-target="#myModal2">
 	<div class="col-sm-4 col-md-3"  >
 	<div class="thumbnail">
-	  <img src="assets/img/vga-3.jpg" alt="...">
+	  <img src="assets/img/storage-3.jpg" alt="...">
 	  <div class="caption">
 	    <center>
 	    <p>
-	    MSI GTX 1060 6GB DDR5 Dual OC
+	    Toshiba 2.5" 320GB SATA 8MB
 	    </p>
 	    <p>
-	    Rp4.750.000
+	    Rp370.000
 	    </p>
 	    </center>
 	  </div>
@@ -20,14 +20,14 @@
   <a href="#" data-toggle="modal" data-target="#myModal2">
 	<div class="col-sm-4 col-md-3"  >
 	<div class="thumbnail">
-	  <img src="assets/img/vga-3.jpg" alt="...">
+	  <img src="assets/img/storage-3.jpg" alt="...">
 	  <div class="caption">
 	    <center>
-	    <p>
-	    XFX GTX 1060 6GB DDR5 Dual OC
+	   <p>
+	    WD 2.5" 320GB SATA 8MB
 	    </p>
 	    <p>
-	    Rp4.750.000
+	    Rp370.000
 	    </p>
 	    </center>
 	  </div>
@@ -38,14 +38,14 @@
   <a href="#" data-toggle="modal" data-target="#myModal2">
 	<div class="col-sm-4 col-md-3"  >
 	<div class="thumbnail">
-	  <img src="assets/img/vga-3.jpg" alt="...">
+	  <img src="assets/img/storage-3.jpg" alt="...">
 	  <div class="caption">
 	    <center>
 	    <p>
-	    iGame GTX 1060 6GB DDR5 Dual OC
+	    Hitachi 2.5" 320GB SATA 8MB
 	    </p>
 	    <p>
-	    Rp4.750.000
+	    Rp370.000
 	    </p>
 	    </center>
 	  </div>
@@ -56,14 +56,14 @@
   <a href="#" data-toggle="modal" data-target="#myModal2">
 	<div class="col-sm-4 col-md-3"  >
 	<div class="thumbnail">
-	  <img src="assets/img/vga-3.jpg" alt="...">
+	  <img src="assets/img/storage-3.jpg" alt="...">
 	  <div class="caption">
 	    <center>
-	    <p>
-	    MSI GTX 1060 6GB DDR5 Dual OC
+	     <p>
+	    WD 2.5" 320GB SATA 8MB
 	    </p>
 	    <p>
-	    Rp4.750.000
+	    Rp370.000
 	    </p>
 	    </center>
 	  </div>
@@ -81,7 +81,7 @@
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal">&times;</button>
-        <h4 class="modal-title"> MSI GTX 1060 6GB DDR5 Dual OC</h4>
+        <h4 class="modal-title"> WD 2.5" 320GB SATA 8MB</h4>
       </div>
       <div class="modal-body">
 				
@@ -100,19 +100,19 @@
 					  <!-- Wrapper for slides -->
 					  <div class="carousel-inner" role="listbox">
 					    <div class="item active">
-					      <img src="assets/img/vga-3.jpg" alt="intel">
+					      <img src="assets/img/storage-3.jpg" alt="intel">
 					    </div>
 
 					    <div class="item">
-					      <img src="assets/img/vga-3.jpg" alt="intel">
+					      <img src="assets/img/storage-3.jpg" alt="intel">
 					    </div>
 
 					    <div class="item">
-					      <img src="assets/img/vga-3.jpg" alt="intel">
+					      <img src="assets/img/storage-3.jpg" alt="intel">
 					    </div>
 
 					    <div class="item">
-					      <img src="assets/img/vga-3.jpg" alt="intel">
+					      <img src="assets/img/storage-3.jpg" alt="intel">
 					    </div>
 					  </div>
 
@@ -130,15 +130,15 @@
 
 				<div class="col-md-6">
 					<p>
-						NVIDIA GeForce
+						WD
 					</p>
 					<hr>
 					<p>
-						MSI GTX 1060 6GB DDR5 Dual OC
+						WD 2.5" 320GB SATA 8MB
 					</p>
 					<hr>
 					<p>
-						Series 10
+						WD
 					</p>
 					<hr>
 					<p class="stock">
@@ -147,7 +147,7 @@
 					<hr>
 					<p>
 
-					<h3>Rp4.750.000</h3> 
+					<h3>Rp370.000</h3> 
 					<a class="pull-right class btn btn-success"> Tambahkan ke Simulasi</a>
 					
 					</p>
