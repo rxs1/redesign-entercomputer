@@ -1,0 +1,31 @@
+#footer{
+	background-color: #52B3D9;
+	color: white;
+	font-weight: bold;
+}
+
+#alamat p {
+	color: white;
+}
+
+#footer-mid div {
+	margin-left: 250px;
+}
+
+#footer-mid a {
+	text-decoration: none;
+	color: white;
+}
+
+#footer-right div {
+	margin-left: 50px;
+}
+
+#footer-right a {
+	text-decoration: none;
+	color: white;
+}
+
+.social-media{
+	font-size: 33px;
+}
