@@ -127,7 +127,33 @@
 					  </a>
 					</div>
 				</div>
-				
+
+				<div class="col-md-6">
+					<p>
+						Socket Intel LGA 1150
+					</p>
+					<hr>
+					<p>
+						Intel core i3  3310
+					</p>
+					<hr>
+					<p>
+						Gen  3310
+					</p>
+					<hr>
+					<p class="stock">
+						Stock:21
+					</p>
+					<hr>
+					<p>
+
+					<h3>Rp3.002.000</h3> 
+					<a class="pull-right class btn btn-success"> Tambahkan ke Simulasi</a>
+					
+					</p>
+
+				</div>
+
 			</div>
 
       </div>
