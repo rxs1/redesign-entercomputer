@@ -15,3 +15,4 @@
 <link rel="stylesheet" href="assets/css/footer.css">
 <link rel="stylesheet" href="assets/css/search-form.css">
 <link href="assets/css/header.css" rel="stylesheet">
+<link href="assets/css/content.css" rel="stylesheet">
