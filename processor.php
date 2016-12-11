@@ -25,7 +25,7 @@
 			  <div class="tab-content">
 			    <div role="tabpanel" class="tab-pane active" id="intel">
 			    	<div class="col-md-12 content">	
-				    	<div class="panel-group" id="accordion">
+				    	<div class="panel-group accordions" id="accordion">
 						    <div class="panel panel-default">
 						      <div class="panel-heading">
 						        <h4 class="panel-title">
@@ -68,7 +68,7 @@
 			    <div role="tabpanel" class="tab-pane" id="amd">
 			    	
 			    	<div class="col-md-12 content">	
-			    		<div class="panel-group" id="accordion2">
+			    		<div class="panel-group accordions" id="accordion2">
 						    <div class="panel panel-default">
 						      <div class="panel-heading">
 						        <h4 class="panel-title">

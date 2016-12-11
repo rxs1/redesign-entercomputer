@@ -2,3 +2,13 @@
 	border: #CCC solid 1px;
 	margin-bottom: 3%;
 }
+
+.accordions{
+	margin-top: 3%;	
+}
+
+.stock{
+	border:#ccc solid 1px;
+	padding:3%;
+	width:150px;
+}
