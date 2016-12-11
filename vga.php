@@ -2,7 +2,7 @@
 <html>
 <head>
 <?php
-	$title ='Processor' ;
+	$title ='VGA' ;
 	include 'head.php';
 ?>
 
