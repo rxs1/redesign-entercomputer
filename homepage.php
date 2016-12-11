@@ -23,7 +23,7 @@
 					<img src="assets/img/processor-1.jpg" alt="intel">
 					<div class="caption">
 						<p>Intel i3 LGA 1151</p>
-						<p>Rp3.500.000</p>
+						<p><strike>Rp3.500.000</strike> &nbsp Rp3.000.000</p>
 					</div>
 				</div>
 			</div>
@@ -32,7 +32,7 @@
 					<img src="assets/img/processor-1.jpg" alt="intel">
 					<div class="caption">
 						<p>Intel i3 LGA 1151</p>
-						<p>Rp3.500.000</p>
+						<p><strike>Rp3.500.000</strike> &nbsp Rp3.000.000</p>
 					</div>
 				</div>
 			</div>
@@ -41,7 +41,7 @@
 					<img src="assets/img/processor-1.jpg" alt="intel">
 					<div class="caption">
 						<p>Intel i3 LGA 1151</p>
-						<p>Rp3.500.000</p>
+						<p><strike>Rp3.500.000</strike> &nbsp Rp3.000.000</p>
 					</div>
 				</div>
 			</div>
@@ -50,7 +50,7 @@
 					<img src="assets/img/processor-1.jpg" alt="intel">
 					<div class="caption">
 						<p>Intel i3 LGA 1151</p>
-						<p>Rp3.500.000</p>
+						<p><strike>Rp3.500.000</strike> &nbsp Rp3.000.000</p>
 					</div>
 				</div>
 			</div>
@@ -61,7 +61,7 @@
 					<img src="assets/img/processor-1.jpg" alt="intel">
 					<div class="caption">
 						<p>Intel i3 LGA 1151</p>
-						<p>Rp3.500.000</p>
+						<p><strike>Rp3.500.000</strike> &nbsp Rp3.000.000</p>
 					</div>
 				</div>
 			</div>
@@ -70,7 +70,7 @@
 					<img src="assets/img/processor-1.jpg" alt="intel">
 					<div class="caption">
 						<p>Intel i3 LGA 1151</p>
-						<p>Rp3.500.000</p>
+						<p><strike>Rp3.500.000</strike> &nbsp Rp3.000.000</p>
 					</div>
 				</div>
 			</div>
@@ -79,7 +79,7 @@
 					<img src="assets/img/processor-1.jpg" alt="intel">
 					<div class="caption">
 						<p>Intel i3 LGA 1151</p>
-						<p>Rp3.500.000</p>
+						<p><strike>Rp3.500.000</strike> &nbsp Rp3.000.000</p>
 					</div>
 				</div>
 			</div>
@@ -88,7 +88,7 @@
 					<img src="assets/img/processor-1.jpg" alt="intel">
 					<div class="caption">
 						<p>Intel i3 LGA 1151</p>
-						<p>Rp3.500.000</p>
+						<p><strike>Rp3.500.000</strike> &nbsp Rp3.000.000</p>
 					</div>
 				</div>
 			</div>
