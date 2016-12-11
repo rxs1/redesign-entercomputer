@@ -1,0 +1,60 @@
+@import url(https://fonts.googleapis.com/css?family=Titillium+Web);
+
+body {
+	color: white;
+	font-weight: bold;
+}
+
+#header {
+	margin-top: -20px;
+	padding: 10px;
+	background-color: #52B3D9;
+}
+
+#logo {
+	
+}
+
+#menuBar {
+	margin-top: 20px;
+}
+
+#tabContainer {
+	
+}
+
+#topTab {
+	list-style-type: none;
+	width: 100%;
+	position: relative;
+	height: 27px;
+	font-weight: bold;
+
+}
+
+#topTab li {
+
+}
+
+#topTab li a {
+	display: inline-block;
+	float: left;
+	color: white;
+	text-decoration: none;
+	padding: 3px 14px 3px 14px;
+	height: 27px;
+	list-style-position:inside;
+	border: 1px solid white;
+}
+
+#topTab li a:hover {
+	background-color: #F9BF3B;
+}
+
+#info {
+
+}
+
+#info table {
+	margin-left: 80px;
+}
