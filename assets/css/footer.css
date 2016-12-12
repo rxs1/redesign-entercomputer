@@ -1,7 +1,6 @@
 #footer{
 	background-color: #52B3D9;
 	color: white;
-	font-weight: bold;
 	padding-top: 2%;
 }
 
@@ -9,13 +8,10 @@
 	color: white;
 }
 
-
-
 #footer-mid a {
 	text-decoration: none;
 	color: white;
 }
-
 
 #footer-right a {
 	text-decoration: none;

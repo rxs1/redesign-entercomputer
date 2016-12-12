@@ -1,4 +1,3 @@
-
 <div id="header" class="col-md-12">
 	<div id="logo" class="col-md-3">
 		<h2>Enter Komputer</h2>
@@ -20,7 +19,7 @@
 		<div>
 			<p><i class="fa fa-phone"></i>&nbsp;(021) 3043 0333</p>
 			<p><i class="fa fa-envelope"></i>&nbsp;sales@enterkomputer.com</p>
-			<p><i class="fa fa-usd"></i>&nbsp;Simulasi Harga</p>
+			<p><i class="fa fa-usd"></i>&nbsp;<a href="simulasi.php">Simulasi Harga</a></p>
 		</div>
 	</div>
 </div>

@@ -28,7 +28,7 @@
 						<a href="#">Paket Komputer</a>
 					</p>
 					<p>
-						<a href="#">Beli Paket</a>
+						<a href="#">Beli Produk</a>
 					</p>
 				</div>    
 			</div>
@@ -47,11 +47,11 @@
 				</div>
 			</div>
 			<div class="col-md-3 social-media">
-				&nbsp;
+				&nbsp;&nbsp;
 				<i class="fa fa-facebook-square"></i>
-				&nbsp;&nbsp;&nbsp;
+				&nbsp;&nbsp;
 				<i class="fa fa-twitter-square"></i>
-				&nbsp;&nbsp;&nbsp;
+				&nbsp;&nbsp;
 				<i class="fa fa-instagram"></i>
 				
 			</div>
