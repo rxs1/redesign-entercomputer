@@ -32,9 +32,25 @@
 
 .panel-title a {
 	text-decoration: none;
-	color: grey;
+	color: #515151;
 }
 
 .panel-heading {
 	border-radius: 0px;
+}
+
+.paket {
+	color: #515151;
+}
+
+.paket h4 {
+	color: #3f3f3f;
+}
+
+.paket th {
+	background-color: #F9BF3B;
+}
+
+.paket th h4 {
+	color: white;
 }
