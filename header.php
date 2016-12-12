@@ -11,7 +11,7 @@
 				<li><a href="vga.php">VGA</a></li>
 				<li><a href="ram.php">RAM</a></li>
 				<li><a href="storage.php">Storage</a></li>
-				<li><a href="pwersupply.php">Power Supply</a></li>
+				<li><a href="powersupply.php">Power Supply</a></li>
 				<li><a href="peripheral.php">Peripheral</a></li>
 			</ul>
 		</div>
