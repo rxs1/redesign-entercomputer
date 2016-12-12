@@ -61,7 +61,7 @@
 			
 			<div class="col-md-4 col-md-offset-4">
 				<center>
-					<p>Copyright @ Enter Komputer 2016</p>
+					<p>Copyright &copy; Enter Komputer 2016</p>
 					<p>All Right reserved</p>
 				</center>
 			</div>

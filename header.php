@@ -6,13 +6,13 @@
 	<div id="menuBar" class="col-md-6">
 		<div id="tabContainer">
 			<ul id="topTab">
-				<li><a href="homepage.php">Home</a></li>
-				<li><a href="processor.php">Processor</a></li>
-				<li><a href="vga.php">VGA</a></li>
-				<li><a href="ram.php">RAM</a></li>
-				<li><a href="storage.php">Storage</a></li>
-				<li><a href="powersupply.php">Power Supply</a></li>
-				<li><a href="peripheral.php">Peripheral</a></li>
+				<li id="homepage"><a href="homepage.php">Home</a></li>
+				<li id="processor"><a href="processor.php">Processor</a></li>
+				<li id="vga"><a href="vga.php">VGA</a></li>
+				<li id="ram"><a href="ram.php">RAM</a></li>
+				<li id="storage"><a href="storage.php">Storage</a></li>
+				<li id="powersupply"><a href="powersupply.php">Power Supply</a></li>
+				<li id="peripheral"><a href="peripheral.php">Peripheral</a></li>
 			</ul>
 		</div>
 	</div>
