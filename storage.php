@@ -19,6 +19,9 @@
 			  <ul class="nav nav-tabs" role="tablist">
 			    <li role="presentation" class="seagate"><a href="#seagate" aria-controls="seagate" role="tab" data-toggle="tab">Seagate</a></li>
 			    <li role="presentation"><a href="#samsung" aria-controls="samsung" role="tab" data-toggle="tab">Samsung</a></li>
+				<li role="presentation"><a href="#WD" aria-controls="WD" role="tab" data-toggle="tab">WD</a></li>
+				<li role="presentation"><a href="#hitachi" aria-controls="hitachi" role="tab" data-toggle="tab">Hitachi</a></li>
+				<li role="presentation"><a href="#toshiba" aria-controls="toshiba" role="tab" data-toggle="tab">Toshiba</a></li>
 				<li role="presentation"><a href="#lainnya" aria-controls="lainnya" role="lainnya" data-toggle="tab">Lainnya</a></li>
 			    
 			  </ul>

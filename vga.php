@@ -17,9 +17,12 @@
 			<div>
 			  <!-- Nav tabs -->
 			  <ul class="nav nav-tabs" role="tablist">
-			    <li role="presentation" class="asus"><a href="#asus" aria-controls="intel" role="tab" data-toggle="tab">ASUS</a></li>
-			    <li role="presentation"><a href="#galax" aria-controls="AMD" role="tab" data-toggle="tab">GALAX</a></li>
-				<li role="presentation"><a href="#lainnya" aria-controls="AMD" role="tab" data-toggle="tab">Lainnya</a></li>
+			    <li role="presentation" class="asus"><a href="#asus" aria-controls="asus" role="tab" data-toggle="tab">Asus</a></li>
+			    <li role="presentation"><a href="#galax" aria-controls="galax" role="tab" data-toggle="tab">Galax</a></li>
+				<li role="presentation"><a href="#MSI" aria-controls="MSI" role="tab" data-toggle="tab">MSI</a></li>
+				<li role="presentation"><a href="#XFX" aria-controls="XFX" role="tab" data-toggle="tab">XFX</a></li>
+				<li role="presentation"><a href="#iGame" aria-controls="iGame" role="tab" data-toggle="tab">iGame</a></li>
+				<li role="presentation"><a href="#lainnya" aria-controls="lainnya" role="tab" data-toggle="tab">Lainnya</a></li>
 			    
 			  </ul>
 			  <!-- Tab panes -->

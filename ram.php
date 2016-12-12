@@ -19,6 +19,9 @@
 				<ul class="nav nav-tabs" role="tablist">
 			    	<li role="presentation" class="active"><a href="#galax" aria-controls="galax" role="tab" data-toggle="tab">Galax</a></li>
 			    	<li role="presentation"><a href="#corsair" aria-controls="corsair" role="tab" data-toggle="tab">Corsair</a></li>
+					<li role="presentation"><a href="#geil" aria-controls="geil" role="tab" data-toggle="tab">Geil</a></li>
+					<li role="presentation"><a href="#avexir" aria-controls="avexir" role="tab" data-toggle="tab">Avexir</a></li>
+					<li role="presentation"><a href="#kingston" aria-controls="kingston" role="tab" data-toggle="tab">Kingston</a></li>
 			    	<li role="presentation"><a href="#lainnya" aria-controls="lainnya" role="tab" data-toggle="tab">Lainnya</a></li>
 			    
 			  	</ul>
