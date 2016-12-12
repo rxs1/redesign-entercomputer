@@ -14,90 +14,120 @@
 	
 	<div class="container promo">
 		<div>
-			<h4><b>PROMO BULAN INI</b></h4>
+			<h4 class="judul"><b>PROMO BULAN INI</b></h4>
 		</div>
 		<hr>
 		<div class="row">
-			<div class="col-sm-4 col-md-3">
-				<div class="thumbnail">
-					<img src="assets/img/processor-1.jpg" alt="intel">
-					<div class="caption">
-						<p>Intel i3 LGA 1151</p>
-						<p><strike>Rp3.500.000</strike> &nbsp Rp3.000.000</p>
+			<a href="#" data-toggle="modal" data-target="#myModal">
+				<div class="col-sm-4 col-md-3">
+					<div class="thumbnail">
+						<img src="assets/img/processor-1.jpg" alt="intel">
+						<div class="caption">
+							<center>
+								<p>Intel i3 LGA 1151</p>
+								<p><strike>Rp3.500.000</strike> &nbsp Rp3.000.000</p>
+							</center>
+						</div>
 					</div>
 				</div>
-			</div>
-			<div class="col-sm-4 col-md-3">
-				<div class="thumbnail">
-					<img src="assets/img/processor-1.jpg" alt="intel">
-					<div class="caption">
-						<p>Intel i3 LGA 1151</p>
-						<p><strike>Rp3.500.000</strike> &nbsp Rp3.000.000</p>
+			</a>
+			<a href="#" data-toggle="modal" data-target="#myModal">
+				<div class="col-sm-4 col-md-3">
+					<div class="thumbnail">
+						<img src="assets/img/processor-1.jpg" alt="intel">
+						<div class="caption">
+							<center>
+								<p>Intel i3 LGA 1151</p>
+								<p><strike>Rp3.500.000</strike> &nbsp Rp3.000.000</p>
+							</center>
+						</div>
 					</div>
 				</div>
-			</div>
-			<div class="col-sm-4 col-md-3">
-				<div class="thumbnail">
-					<img src="assets/img/processor-1.jpg" alt="intel">
-					<div class="caption">
-						<p>Intel i3 LGA 1151</p>
-						<p><strike>Rp3.500.000</strike> &nbsp Rp3.000.000</p>
+			</a>
+			<a href="#" data-toggle="modal" data-target="#myModal">
+				<div class="col-sm-4 col-md-3">
+					<div class="thumbnail">
+						<img src="assets/img/processor-1.jpg" alt="intel">
+						<div class="caption">
+							<center>
+								<p>Intel i3 LGA 1151</p>
+								<p><strike>Rp3.500.000</strike> &nbsp Rp3.000.000</p>
+							</center>
+						</div>
 					</div>
 				</div>
-			</div>
-			<div class="col-sm-4 col-md-3">
-				<div class="thumbnail">
-					<img src="assets/img/processor-1.jpg" alt="intel">
-					<div class="caption">
-						<p>Intel i3 LGA 1151</p>
-						<p><strike>Rp3.500.000</strike> &nbsp Rp3.000.000</p>
+			</a>
+			<a href="#" data-toggle="modal" data-target="#myModal">
+				<div class="col-sm-4 col-md-3">
+					<div class="thumbnail">
+						<img src="assets/img/processor-1.jpg" alt="intel">
+						<div class="caption">
+							<center>
+								<p>Intel i3 LGA 1151</p>
+								<p><strike>Rp3.500.000</strike> &nbsp Rp3.000.000</p>
+							</center>
+						</div>
 					</div>
 				</div>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-sm-4 col-md-3">
-				<div class="thumbnail">
-					<img src="assets/img/processor-1.jpg" alt="intel">
-					<div class="caption">
-						<p>Intel i3 LGA 1151</p>
-						<p><strike>Rp3.500.000</strike> &nbsp Rp3.000.000</p>
+			</a>
+			<a href="#" data-toggle="modal" data-target="#myModal">
+				<div class="col-sm-4 col-md-3">
+					<div class="thumbnail">
+						<img src="assets/img/processor-1.jpg" alt="intel">
+						<div class="caption">
+							<center>
+								<p>Intel i3 LGA 1151</p>
+								<p><strike>Rp3.500.000</strike> &nbsp Rp3.000.000</p>
+							</center>
+						</div>
 					</div>
 				</div>
-			</div>
-			<div class="col-sm-4 col-md-3">
-				<div class="thumbnail">
-					<img src="assets/img/processor-1.jpg" alt="intel">
-					<div class="caption">
-						<p>Intel i3 LGA 1151</p>
-						<p><strike>Rp3.500.000</strike> &nbsp Rp3.000.000</p>
+			</a>
+			<a href="#" data-toggle="modal" data-target="#myModal">
+				<div class="col-sm-4 col-md-3">
+					<div class="thumbnail">
+						<img src="assets/img/processor-1.jpg" alt="intel">
+						<div class="caption">
+							<center>
+								<p>Intel i3 LGA 1151</p>
+								<p><strike>Rp3.500.000</strike> &nbsp Rp3.000.000</p>
+							</center>
+						</div>
 					</div>
 				</div>
-			</div>
-			<div class="col-sm-4 col-md-3">
-				<div class="thumbnail">
-					<img src="assets/img/processor-1.jpg" alt="intel">
-					<div class="caption">
-						<p>Intel i3 LGA 1151</p>
-						<p><strike>Rp3.500.000</strike> &nbsp Rp3.000.000</p>
+			</a>
+			<a href="#" data-toggle="modal" data-target="#myModal">
+				<div class="col-sm-4 col-md-3">
+					<div class="thumbnail">
+						<img src="assets/img/processor-1.jpg" alt="intel">
+						<div class="caption">
+							<center>
+								<p>Intel i3 LGA 1151</p>
+								<p><strike>Rp3.500.000</strike> &nbsp Rp3.000.000</p>
+							</center>
+						</div>
 					</div>
 				</div>
-			</div>
-			<div class="col-sm-4 col-md-3">
-				<div class="thumbnail">
-					<img src="assets/img/processor-1.jpg" alt="intel">
-					<div class="caption">
-						<p>Intel i3 LGA 1151</p>
-						<p><strike>Rp3.500.000</strike> &nbsp Rp3.000.000</p>
+			</a>
+			<a href="#" data-toggle="modal" data-target="#myModal">
+				<div class="col-sm-4 col-md-3">
+					<div class="thumbnail">
+						<img src="assets/img/processor-1.jpg" alt="intel">
+						<div class="caption">
+							<center>
+								<p>Intel i3 LGA 1151</p>
+								<p><strike>Rp3.500.000</strike> &nbsp Rp3.000.000</p>
+							</center>
+						</div>
 					</div>
 				</div>
-			</div>
+			</a>
 		</div>
 	</div>
 
 	<div class="container promo">
 		<div>
-			<h4><b>PRODUK LARIS</b></h4>
+			<h4 class="judul"><b>PRODUK LARIS</b></h4>
 		</div>
 		<hr>
 		<div class="row" >
@@ -105,38 +135,51 @@
 				<i class="fa fa-arrow-circle-left"></i>
 			</div>
 			<div class="col-md-10">
-				<div class="col-md-4">
-					<div class="thumbnail">
-						<img src="assets/img/processor-1.jpg" alt="intel">
-						<div class="caption">
-							<p>Intel i3 LGA 1151</p>
-							<p>Rp3.500.000</p>
+				<a href="#" data-toggle="modal" data-target="#myModal">
+					<div class="col-md-4">
+						<div class="thumbnail">
+							<img src="assets/img/processor-1.jpg" alt="intel">
+							<div class="caption">
+								<center>
+									<p>Intel i3 LGA 1151</p>
+									<p>Rp3.000.000</p>
+								</center>
+							</div>
 						</div>
 					</div>
-				</div>
-				<div class="col-md-4">
-					<div class="thumbnail">
-						<img src="assets/img/processor-1.jpg" alt="intel">
-						<div class="caption">
-							<p>Intel i3 LGA 1151</p>
-							<p>Rp3.500.000</p>
+				</a>
+				<a href="#" data-toggle="modal" data-target="#myModal1">
+					<div class="col-md-4">
+						<div class="thumbnail">
+							<img src="assets/img/processor-1.jpg" alt="intel">
+							<div class="caption">
+								<center>
+									<p>Intel i3 LGA 1151</p>
+									<p>Rp3.000.000</p>
+								</center>
+							</div>
 						</div>
 					</div>
-				</div>
-				<div class="col-md-4">
-					<div class="thumbnail">
-						<img src="assets/img/processor-1.jpg" alt="intel">
-						<div class="caption">
-							<p>Intel i3 LGA 1151</p>
-							<p>Rp3.500.000</p>
+				</a>
+				<a href="#" data-toggle="modal" data-target="#myModal1">
+					<div class="col-md-4">
+						<div class="thumbnail">
+							<img src="assets/img/processor-1.jpg" alt="intel">
+							<div class="caption">
+								<center>
+									<p>Intel i3 LGA 1151</p>
+									<p>Rp3.000.000</p>
+								</center>
+							</div>
 						</div>
 					</div>
-				</div>
+				</a>
 			</div>	
 			<div class="col-md-1 arrow-right">
 				<i class="fa fa-arrow-circle-right"></i>
 			</div>
-			
+			<?php include'dummy-homepage-diskon.php'; ?>
+			<?php include'dummy-homepage.php'; ?>
 		</div>
 	</div>
 	<?php include'footer.php';?>

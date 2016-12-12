@@ -22,13 +22,13 @@
 			<div class="col-md-3" id="footer-mid">
 				<div>
 					<p>
-						<a href="#">Simulasi Harga</a>
+						<a href="simulasi.php">Simulasi Harga</a>
 					</p>
 					<p>
-						<a href="#">Paket Komputer</a>
+						<a href="paketkomputer.php">Paket Komputer</a>
 					</p>
 					<p>
-						<a href="#">Beli Produk</a>
+						<a href="http://enter.id/">Beli Produk</a>
 					</p>
 				</div>    
 			</div>
@@ -36,23 +36,23 @@
 			<div class="col-md-3" id="footer-right">
 				<div>
 					<p>
-						<a href="#">Bantuan</a>
+						<a href="bantuan.php">Bantuan</a>
 					</p>
 					<p>
-						<a href="#">Hubungi Kami</a>
+						<a href="hubungikami.php">Hubungi Kami</a>
 					</p>
 					<p>
-						<a href="#">Syarat dan Kebijakan Privasi</a>
+						<a href="skp.php">Syarat dan Kebijakan Privasi</a>
 					</p>        
 				</div>
 			</div>
 			<div class="col-md-3 social-media">
 				&nbsp;&nbsp;
-				<i class="fa fa-facebook-square"></i>
+				<a href=""><i class="fa fa-facebook-square" style="color: white;"></i></a>
 				&nbsp;&nbsp;
-				<i class="fa fa-twitter-square"></i>
+				<a href=""><i class="fa fa-twitter-square" style="color: white;"></i></a>
 				&nbsp;&nbsp;
-				<i class="fa fa-instagram"></i>
+				<a href=""><i class="fa fa-instagram" style="color: white;"></i></a>
 				
 			</div>
 		</div>

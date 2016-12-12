@@ -1,91 +1,12 @@
-<div class="row">
-	<a href="#" data-toggle="modal" data-target="#myModal">
-		<div class="col-sm-4 col-md-3"  >
-			<div class="thumbnail">
-				<img src="assets/img/processor-1.jpg" alt="...">
-				<div class="caption">
-					<center>
-						<p>
-							Intel core i3  3310
-						</p>
-						<p>
-							Rp3.002.000
-						</p>
-					</center>
-				</div>
-			</div>
-		</div>
-	</a>
-
-	<a href="#" data-toggle="modal" data-target="#myModal">
-		<div class="col-sm-4 col-md-3"  >
-			<div class="thumbnail">
-				<img src="assets/img/processor-1.jpg" alt="...">
-				<div class="caption">
-					<center>
-						<p>
-							Intel core i3  3310
-						</p>
-						<p>
-							Rp3.002.000
-						</p>
-					</center>
-				</div>
-			</div>
-		</div>
-	</a>
-
-	<a href="#" data-toggle="modal" data-target="#myModal">
-		<div class="col-sm-4 col-md-3"  >
-			<div class="thumbnail">
-				<img src="assets/img/processor-1.jpg" alt="...">
-				<div class="caption">
-					<center>
-						<p>
-							Intel core i3  3310
-						</p>
-						<p>
-							Rp3.002.000
-						</p>
-					</center>
-				</div>
-			</div>
-		</div>
-	</a>
-
-	<a href="#" data-toggle="modal" data-target="#myModal">
-		<div class="col-sm-4 col-md-3"  >
-			<div class="thumbnail">
-				<img src="assets/img/processor-1.jpg" alt="...">
-				<div class="caption">
-					<center>
-						<p>
-							Intel core i3  3310
-						</p>
-						<p>
-							Rp3.002.000
-						</p>
-					</center>
-				</div>
-			</div>
-		</div>
-	</a>
-
-
-</div>
-
-<!-- Modal -->
-<div id="myModal" class="modal fade" role="dialog">
+<div id="myModal1" class="modal fade" role="dialog">
 	<div class="modal-dialog modal-lg">
 		<!-- Modal content-->
 		<div class="modal-content">
 			<div class="modal-header">
 				<button type="button" class="close" data-dismiss="modal">&times;</button>
-				<h4 class="modal-title"> Intel core i3  3310</h4>
+				<h4 class="modal-title"> Intel core i3 LGA 1151</h4>
 			</div>
 			<div class="modal-body">
-				
-				
 				<div class="row">
 					<div class="col-md-6">
 						<div id="myCarousel" class="carousel slide" data-ride="carousel">
@@ -130,15 +51,15 @@
 
 					<div class="col-md-6">
 						<p>
-							Socket Intel LGA 1150
+							Socket Intel LGA 1151
 						</p>
 						<hr>
 						<p>
-							Intel core i3  3310
+							Intel core i3 6100
 						</p>
 						<hr>
 						<p>
-							Gen  3310
+							Gen 6100
 						</p>
 						<hr>
 						<p class="stock">
@@ -146,21 +67,15 @@
 						</p>
 						<hr>
 						<p>
-
-							<h3>Rp3.002.000</h3> 
+							<h3>Rp3.000.000</p></h3> 
 							<a class="pull-right class btn btn-success"> Tambahkan ke Simulasi</a>
-							
 						</p>
-
 					</div>
-
 				</div>
-
 			</div>
 			<div class="modal-footer">
 				<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
 			</div>
 		</div>
-
 	</div>
 </div>
