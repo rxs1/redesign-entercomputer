@@ -34,3 +34,7 @@
 	text-decoration: none;
 	color: grey;
 }
+
+.panel-heading {
+	border-radius: 0px;
+}
