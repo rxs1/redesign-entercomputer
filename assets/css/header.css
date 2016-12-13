@@ -46,10 +46,13 @@ body {
 	height: 35px;
 	list-style-position:inside;
 	border-bottom: 1px solid white;
+	-webkit-transition: 1s; /* Safari */
+    transition: 1s;
 }
 
 #topTab li a:hover {
 	background-color: #F9BF3B;
+	color :#cc5200;
 }
 
 #topTab li .active {
