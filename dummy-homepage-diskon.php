@@ -67,8 +67,10 @@
 						</p>
 						<hr>
 						<p>
+						
 							<h3><p><strike>Rp3.500.000</strike> &nbsp Rp3.000.000</p></h3> 
-							<a class="pull-right class btn btn-success"> Tambahkan ke Simulasi</a>
+							<a class="pull-right class btn btn-success"> Tambahkan ke Simulasi </a>
+
 						</p>
 					</div>
 				</div>
