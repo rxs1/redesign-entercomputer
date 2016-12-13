@@ -8,9 +8,9 @@
 }
 
 .stock{
-	border:#ccc solid 1px;
-	padding:3%;
-	width:150px;
+	border: #ccc solid 1px;
+	padding: 3%;
+	width: 90px;
 }
 
 .arrow-left{
@@ -53,4 +53,32 @@
 
 .paket th h4 {
 	color: white;
+}
+
+.hasilPencarianDiv {
+	background-color: white;
+	padding-top: 30px;
+	margin-bottom: 20px;
+}
+
+h4.infoHasilPencarian {
+	color: #515151;
+}
+
+.detailHasilPencarian {
+	color: #515151;
+}
+
+.tambahKeSimulasiHasilPencarian {
+	margin-top: -35px;
+}
+
+.stockHasilPencarian {
+	border: #ccc solid 1px;
+	padding: 10px;
+	width: 90px;
+}
+
+.hasilPencarianDiv .col-md-12 {
+	margin-bottom: 20px;
 }
