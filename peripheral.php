@@ -13,6 +13,16 @@
 	<?php include 'search.php'; ?>
 
 	<div class="container">
+		<div class="form-group">
+			<label for="barang"></label>
+				<select>
+					<option value="case">Case</option>
+					<option value="anything"></option>	
+				</select>
+		</div>
+	</div><br/>
+	
+	<div class="container">
 		<div class="row">
 			<div>
 				<!-- Nav tabs -->
