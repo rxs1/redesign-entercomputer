@@ -23,11 +23,14 @@
 			<p>
 			<!-- Split button -->
 				<div class="btn-group">
-				  <button type="button" class="btn btn-danger"><i class="fa fa-usd"></i>&nbsp;<a href="simulasi.php">Simulasi Harga</a> [3]</button>
+				
 				  <button type="button" class="btn btn-danger dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-				    <span class="caret"></span>
+				    <span style="float: right; margin-left: 0px"  class="">[3]</span>
 				    <span class="sr-only">Toggle Dropdown</span>
 				  </button>
+				    <a href="simulasi.php">
+				  <button type="button" class="btn btn-danger"><i class="fa fa-usd"></i>&nbsp;Simulasi Harga </button>
+				  </a>
 				  <ul class="dropdown-menu">
 				  	<div class="limit">
 					  	<li class="item">
@@ -41,17 +44,17 @@
 						  		</p>
 						  		<hr>
 						  		<p calss='chart-name'>
-						  		Intel core i3 LGA 1151
+						  		 AMD Athlon X2
 						  		</p>
 						  		<p calss='chart-price'>
-						  		Rp3.000.000 x <span class="qty">1</span><a href="#" "><i class="pull-right glyphicon glyphicon-trash btn btn-danger"></i></a>
+						  		Rp3.002.000 x <span class="qty">1</span><a href="#" "><i class="pull-right glyphicon glyphicon-trash btn btn-danger"></i></a>
 						  		</p>
 						  		<hr>
 						  		<p calss='chart-name'>
-						  		Intel core i3 LGA 1151
+						  		Asus GTX 1060 6GB DDR5 Dual OC
 						  		</p>
 						  		<p calss='chart-price'>
-						  		Rp3.000.000 x <span class="qty">1</span><a href="#" "><i class="pull-right glyphicon glyphicon-trash btn btn-danger"></i></a>
+						  		Rp4.750.000 x <span class="qty">1</span><a href="#" "><i class="pull-right glyphicon glyphicon-trash btn btn-danger"></i></a>
 						  		</p> 
 						  		<hr>
 
@@ -59,7 +62,7 @@
 					   	</li>
 
 				   	</div>
-				   	<li><p id="totalharga">Total Harga : Rp9.000.000</p> </li>
+				   	<li><p id="totalharga">Total Harga : Rp10.752.000</p> </li>
 				  </ul>
 				</div>
 			</p>
