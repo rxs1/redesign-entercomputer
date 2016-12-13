@@ -75,28 +75,32 @@ body {
 	margin-left: -13px;
 }
 
-#info .btn-danger {
+#info .btn-info {
 	background-image: linear-gradient(to bottom,#52B3D9 0,#52B3D9 100%);
 	border-color: #52B3D9;
 	box-shadow: inset 0 0px 0 rgba(255,255,255,.15),0 0px 0px rgba(0,0,0,.075);
 }
 
-#info .btn-danger:focus,#info .btn-danger:hover,#info .btn-danger:active{
+#info .btn-info:focus,#info .btn-info:hover,#info .btn-info:active{
 	background-color: #52B3D9;
 }
 
 #info .item p{
-	color:#fff;
+	color: #5e5e5e;
 }
 
 #info .dropdown-menu {
-	background-color: #52B3D9;	
+	background-color: white;	
 }
 
 #info .dropdown-menu li #totalharga{
 	margin:20px;
 	padding:10px;
 	border:1px solid #ccc;
+}
+
+#info .dropdown-menu li #totalharga p{
+	color: #5e5e5e;
 }
 
 #info .dropdown-menu .limit{
