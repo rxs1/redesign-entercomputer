@@ -1,6 +1,6 @@
 <div id="header" class="col-md-12">
 	<div id="logo" class="col-md-3">
-		<h2>Enter Komputer</h2>
+		<h2><a href="homepage.php">Enter Komputer</a></h2>
 	</div>
 	<div id="menuBar" class="col-md-6">
 		<div id="tabContainer">

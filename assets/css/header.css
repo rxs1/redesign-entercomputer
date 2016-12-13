@@ -7,10 +7,13 @@ body {
 	background-color: #EEEEEE;
 }
 
-#header #logo h2{
+#header #logo h2 a {
+	text-decoration: none;
 	font-family: newone;
-	font-size: 45px
+	font-size: 45px;
+	color: white;
 }
+
 #header {
 	padding: 10px;
 	background-color: #52B3D9;
